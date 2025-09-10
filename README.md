@@ -12,9 +12,8 @@ The process included:
 * Data visualization and dashboard creation using **QlikView**
 * Development of three interactive dashboards
 
----
 
-## 📂 Datasets Used
+## Datasets Used
 
 1. **Seradic-P Sales Data (May–Sep 2023)**
 
@@ -30,16 +29,16 @@ The process included:
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 * **Python** – Data Cleaning and Preprocessing
 * **QlikView** – Dashboard Development & Visualization
 
 ---
 
-## 📌 Key Dashboards Developed
+##  Key Dashboards Developed
 
-### 1️⃣ Dashboard – **Seradic-P Sales Performance (May–Sep 2023)**
+### 1️) Dashboard – **Seradic-P Sales Performance (May–Sep 2023)**
 
 **KPIs:**
 
@@ -62,7 +61,7 @@ The process included:
 
 ---
 
-### 2️⃣ Dashboard – **State & Headquarter Sales Overview**
+### 2) Dashboard – **State & Headquarter Sales Overview**
 
 **KPIs:**
 
@@ -82,7 +81,7 @@ The process included:
 
 ---
 
-### 3️⃣ Dashboard – **Delhi Region Sales Performance**
+### 3️) Dashboard – **Delhi Region Sales Performance**
 
 **KPIs:**
 
@@ -104,12 +103,12 @@ The process included:
 
 ---
 
-## 📊 Dashboard Screenshots
+## Dashboard Screenshots
 
-(Add screenshots of each dashboard here with proper labeling)
+- <a href="">Dashboard</a>
 
 ---
 
-## 🏆 Final Conclusion
+##  Final Conclusion
 
 The analysis of **Seradic-P and Delhi sales data** provided valuable insights into regional sales trends, top-performing and underperforming states, headquarters, and products. By identifying growth opportunities, improving sales quality, and addressing weak-performing regions, this project supports data-driven decision-making to optimize future sales strategies.
