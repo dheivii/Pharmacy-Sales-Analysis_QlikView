@@ -101,13 +101,11 @@ The process included:
 * **Division-wise Net Amount** – Breaks down sales performance by divisions for comparison.
 * **Sold vs Credit / Return vs No Sales** – Evaluates product sales quality and operational efficiency.
 
----
 
 ## Dashboard Screenshots
 
-- <a href="">Dashboard</a>
+- <a href="https://github.com/dheivii/Pharmacy-Sales-Analysis_QlikView/blob/main/Pharma_Dashboard(final).qvf">Dashboard</a>
 
----
 
 ##  Final Conclusion
 
