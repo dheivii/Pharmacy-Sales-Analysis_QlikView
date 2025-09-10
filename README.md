@@ -27,14 +27,11 @@ The process included:
    * Division-wise sales data
    * Monthly comparisons
 
----
-
 ## Tools & Technologies
 
 * **Python** – Data Cleaning and Preprocessing
 * **QlikView** – Dashboard Development & Visualization
 
----
 
 ##  Key Dashboards Developed
 
@@ -59,7 +56,6 @@ The process included:
 * **Highest Sales Headquarter (Net Amount)** – Identifies the best-performing headquarter.
 * **Lowest Sales Headquarter (Net Amount)** – Highlights the weakest-performing headquarter needing improvement.
 
----
 
 ### 2) Dashboard – **State & Headquarter Sales Overview**
 
@@ -79,7 +75,6 @@ The process included:
 * **State-wise Net Amount** – Visualizes the distribution of sales across different states.
 * **Headquarter Count for No Sales** – Identifies inactive headquarters with no sales recorded.
 
----
 
 ### 3️) Dashboard – **Delhi Region Sales Performance**
 
